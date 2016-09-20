@@ -1,8 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
+﻿/*
+    Author:     Niklas Schäfer
+    Date:       20.09.2016
+    Summary:    Langeweile - For Schleifen werden
+                wir eh noch kennen lernen
+ */
+using System;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Pyramide
 {
@@ -18,10 +21,9 @@ namespace Pyramide
             Console.Write("Select your methods! 1 or a = deineMutter(int) || 2 or b = deinVater(int)");
             string answer = Console.ReadLine();
 
-            switch (answer)
+            switch (answer.ToLower())
             {
                 case "1":
-                case "A":
                 case "a":
                     Console.Write("Give me numbers: ");
                     try
@@ -37,7 +39,6 @@ namespace Pyramide
                     break;
 
                 case "2":
-                case "B":
                 case "b":
                     Console.Write("Give me numbers: ");
                     try

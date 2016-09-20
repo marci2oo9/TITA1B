@@ -1,8 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
+﻿/*
+    
+    Author:     Niklas Schäfer
+    Date:       20.09.2016
+    Summary:    Erste wirklich Aufgabe in
+                Programmieren bei Herr Loer
+ */
+using System;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Welle
 {

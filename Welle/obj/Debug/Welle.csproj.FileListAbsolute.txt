@@ -1,1 +1,2 @@
 C:\Users\Xore\Source\Repos\TITA1B\Welle\bin\Debug\Welle.exe.config
+C:\Users\Xore\Source\TITA1B\Welle\bin\Debug\Welle.exe.config
