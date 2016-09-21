@@ -1,0 +1,6 @@
+c:\users\xore\documents\visual studio 2015\Projects\Kegel\Kegel\bin\Debug\Kegel.exe.config
+c:\users\xore\documents\visual studio 2015\Projects\Kegel\Kegel\bin\Debug\Kegel.exe
+c:\users\xore\documents\visual studio 2015\Projects\Kegel\Kegel\bin\Debug\Kegel.pdb
+c:\users\xore\documents\visual studio 2015\Projects\Kegel\Kegel\obj\Debug\Kegel.csprojResolveAssemblyReference.cache
+c:\users\xore\documents\visual studio 2015\Projects\Kegel\Kegel\obj\Debug\Kegel.exe
+c:\users\xore\documents\visual studio 2015\Projects\Kegel\Kegel\obj\Debug\Kegel.pdb
